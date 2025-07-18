@@ -1,0 +1,1 @@
+sport = input("what is your favorite sport?:")

@@ -1,0 +1,10 @@
+age = 14
+age2 = 15
+age3 = 47
+age4 = 48
+age5 = 74
+print(age + 25)
+print(age2 + 25)
+print(age3 + 25)
+print(age4 + 25)
+print(age5 + 25)
