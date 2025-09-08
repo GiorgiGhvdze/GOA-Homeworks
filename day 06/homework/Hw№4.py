@@ -1,5 +1,0 @@
-num1 = int(input("first number:"))
-num2 = int(input("second number:"))
-num3 = int(input("third number:"))
-num4 = int(input("fourth number:"))
-print((num1 + num2 + num3 + num4) / 4)
