@@ -1,0 +1,18 @@
+#nav1{
+    text-decoration: none;
+    text-align: center;
+}
+
+#nav2{
+    text-decoration: none;
+    text-align: center;
+}
+
+.AMD{
+    color: red;
+}
+
+body{
+    background-color: gainsboro;
+    font-size: 16px;
+}

@@ -1,0 +1,17 @@
+#div1{
+    background-color: rgb(255, 0, 0);
+    height: 30%;
+    font-weight: 30%;
+}
+
+#div2{
+    background-color: rgb(000, 255, 000);
+    height: 20%;
+    font-weight: 20%;
+}
+
+#div3{
+    background-color: rgb(000, 000, 255);
+    height: 10%;
+    font-weight: 10%;
+}
