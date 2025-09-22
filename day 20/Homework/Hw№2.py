@@ -1,8 +1,11 @@
-name = input('Enter ur name: ')
+name = input('enter ur name: ')
+statement = False
+for char in name: 
+    if char.isupper():
+        statement = True
+        break
 
-for i in name: 
-    if i == i.upper():
-        print(name.lower())
-    else:
-        print(name.capitalize())
-    break
+if statement:
+    print(name.lower())
+else:
+    print(name.capitalize())
