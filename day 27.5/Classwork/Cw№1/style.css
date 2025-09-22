@@ -1,0 +1,38 @@
+.ram {
+    color: red;
+}
+
+#red {
+    border: red solid 2px;
+}
+
+.gpu {
+    color: green;
+}
+
+#green {
+    border: green solid 2px;
+}
+
+.cpu {
+    color: blue;
+}
+
+#blue {
+    border: blue solid 2px;
+}
+
+#redbutton{
+    color: red;
+    border: red solid 2px;
+}
+
+#greenbutton{
+    color: green;
+    border: green solid 2px;
+}
+
+#bluebutton{
+    color: blue;
+    border: blue solid 2px;
+}
