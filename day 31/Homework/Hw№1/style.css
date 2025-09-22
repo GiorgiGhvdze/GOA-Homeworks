@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+}
+
+#lion{
+    color: orange;
+    text-decoration: underline wavy orangered 1px;
+}
+
+#hippo{
+    color: gray;
+    text-decoration: underline dotted gray 2px;
+}
+
+#parrots{
+    color: red;
+    text-decoration: underline double red 1px;
+}
+
+#horse{
+    color: brown;
+    text-decoration: underline dashed brown 1px;
+}
