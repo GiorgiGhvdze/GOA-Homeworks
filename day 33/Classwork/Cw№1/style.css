@@ -1,0 +1,13 @@
+body{
+    background-color: wheat;
+}
+
+#div1 h1{
+    text-decoration: underline wavy black 1px;
+}
+
+h1:hover{
+    color: rgb(121, 54, 54);
+    transition: 0.25s;
+}
+    
