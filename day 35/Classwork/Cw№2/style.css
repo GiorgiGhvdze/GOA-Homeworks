@@ -1,0 +1,6 @@
+input[type="text"]{
+    background-color: gainsboro;
+    width: 400px;
+    height: 40px;
+    border-radius: 20%;
+}
