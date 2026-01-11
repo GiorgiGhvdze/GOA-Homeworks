@@ -1,0 +1,18 @@
+/* content - შიგნით ჩაიწერება ზირითადი რაგაცეები მაგალითად - ტექსტი, სურათი და ა.შეგვიძლია
+
+padding - სივრცეა რომელიც მდებარეობს content-ის და border-ის შორის
+
+border - ხაზია რომელიც შემოსაზღვრავს padding-ს და content-ს და შეგვიძრია შევუცვალოთ სისქე ფერი და სტილი
+
+margin - არის გარე საზღვარი */
+
+
+
+
+#container{
+    width: 300px;
+    height: 200px;
+    padding: 2px;
+    border: 5px solid black;
+    margin: 30px;
+}
