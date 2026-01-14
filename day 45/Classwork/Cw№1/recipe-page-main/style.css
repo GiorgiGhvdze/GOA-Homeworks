@@ -1,0 +1,183 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Kumbh+Sans:wght,YOPQ@100..900,300&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&family=Young+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Kumbh+Sans:wght,YOPQ@100..900,300&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Outfit:wght@100..900&family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&family=Young+Serif&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: "Outfit", sans-serif;
+}
+
+#main{
+    background-color: #f3e5d8;
+    height: 150vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+#colorbox{
+    width: 500px;
+    background-color: white;
+    height: 1000px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+#itembox{
+    width: 90%;
+    height: 93%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+img{
+    width: 100%;
+    border-radius: 10px;
+}
+
+#alltext{
+    display: flex;
+    flex-direction: column;
+    gap: 10px; 
+}
+
+#firsttexts{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+#heading1{
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-size: 26px;
+    color: hsl(24, 5%, 18%);
+}
+
+#p1{
+    color: hsl(24, 2%, 55%);
+    font-size: 11px;
+    font-weight: 500;
+}
+
+#list1{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 80%;
+    height: 100%;
+}
+
+#listcolor1{
+    background-color: #fff7fc;
+    height: 95px;
+    border-radius: 15px;
+    display: flex;
+    
+    justify-content: center;
+}
+
+#heading2{
+    font-size: 14px;
+    color: hsl(332, 51%, 32%);
+    font-weight: 500;
+}
+
+#ul1{
+    font-size: 11px;
+}
+
+#ul1 li::marker{
+    font-size: 7px;
+    color: hsl(332, 51%, 32%);
+}
+
+.listdiv{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.name{
+    line-height: 18px;
+    color: #242322;
+}
+
+.key{
+    color: hsl(30, 2%, 22%);
+    font-weight: 300;
+    line-height: 18px;
+}
+
+#ul2 li::marker{
+    font-size: 7px;
+    color: hsl(332, 51%, 32%);
+}
+
+
+#heading3{
+    font-family: "Young Serif", serif;
+    font-weight: 100;
+    font-size: 16px;
+    color: hsl(14, 45%, 36%);
+    
+}
+
+#ul2 li{
+    color: hsl(0, 1%, 21%);
+    font-weight: 300;
+    font-size: 11px;
+    line-height: 21px;
+}
+
+#ul2{
+    
+    list-style-position: inside;
+}
+
+#line1{
+    width: 100%;
+    background-color: hsl(30, 18%, 87%);
+    height: 1px;
+}
+
+#heading4{
+    font-family: "Young Serif", serif;
+    font-weight: 100;
+    font-size: 16px;
+    color: hsl(14, 45%, 36%);
+}
+
+#ol li{
+    color: hsl(30, 2%, 22%);
+    font-weight: 300;
+    line-height: 18px;
+    font-size: 11px;
+    line-height: 20px;
+}
+
+#ol{
+    list-style-position: inside;
+}
+
+.boldd{
+    color:#535252;
+    font-weight: 700;
+}
+
+#ol li::marker{
+    color: hsl(14, 45%, 36%);
+    font-weight: bold;
+}
+
+#line2{
+    height: 1px;
+    background-color: hsl(30, 18%, 87%);
+    width: 100%;
+}
